@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#1D4ED8",  // Changed to a blue shade
-    "light": "#3B82F6",    // Lighter blue
-    "dark": "#1D4ED8",     // Same as primary for consistency
+    "primary": "#1D4ED8",
+    "light": "#3B82F6",
+    "dark": "#1D4ED8",
     "anchors": {
-      "from": "#1D4ED8",   // Blue for links
-      "to": "#3B82F6"      // Lighter blue for link hover
+      "from": "#1D4ED8",
+      "to": "#3B82F6"
     }
   },
   "topbarLinks": [
