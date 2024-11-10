@@ -7,11 +7,11 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#1D4ED8",
+    "primary": "blue",
     "light": "#3B82F6",
-    "dark": "#1D4ED8",
+    "dark": "blue",
     "anchors": {
-      "from": "#1D4ED8",
+      "from": "blue",
       "to": "#3B82F6"
     }
   },
@@ -41,11 +41,6 @@
       "name": "Community",
       "icon": "slack",
       "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
